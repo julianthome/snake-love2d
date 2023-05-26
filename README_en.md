@@ -14,9 +14,9 @@ See [POST.md](./POST.md) for more details.
 
 All the source code in this repository/directory is licensed under [MIT](./LICENSE.md). 
 
-The sound files are licensed unter [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) lizenziert and were created by the authors of the game. 
+The sound files are licensed unter [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) and were created by the authors of the game. 
 
-The image files are licensed under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/). THe original image files and authors are listed below.
+The image files are licensed under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/). The original image files and authors are listed below.
 - apple.png: https://thenounproject.com/icon/apple-5609603/, Creator: https://thenounproject.com/alisonm112900/
 - snakehead_<x>.png: https://thenounproject.com/icon/snake-4483307/, Creator: https://thenounproject.com/ayub12/
 
