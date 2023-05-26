@@ -1,2 +1,2 @@
-# snake-love2d
-A snake implementation using Lua and LOVE
+- [German](./README_de.md)
+- [English](./README_en.md)
