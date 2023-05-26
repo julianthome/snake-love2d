@@ -4,7 +4,7 @@
 
 This game assumes working installations of Lua and LÖVE to be present. You can find the installation instructions for Lua and LÖVE on https://www.lua.org/ as well as https://love2d.org/, respectively.
 
-Afterwards you should be able to start the game by just invoking `make run` from this directory.
+Afterwards you should be able to start the game by just invoking `./run.sh` from this directory.
 
 ### Documentation.
 

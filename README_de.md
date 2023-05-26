@@ -4,7 +4,7 @@
 
 Dieses Spiel benötigt eine funktionierenden Lua Interpreter und LÖVE Installation. Sie können die Installationsanleitungen für Lua und LÖVE unter https://www.lua.org/ und https://love2d.org/ finden.
 
-Anschließend können sie das Spiel mittels `make run` starten
+Anschließend können sie das Spiel mittels `./run.sh` starten
 
 ### Lizenz
 
