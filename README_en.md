@@ -6,6 +6,8 @@ This game assumes working installations of Lua and LÖVE to be present. You can 
 
 Afterwards you should be able to start the game by just invoking `./run.sh` from this directory.
 
+[This Golem.de article](https://www.golem.de/news/spieleklassiker-snake-programmieren-mit-lua-und-loeve-2305-174483.html) explains implementation in detail.
+
 ### Documentation.
 
 See [POST.md](./POST.md) for more details.

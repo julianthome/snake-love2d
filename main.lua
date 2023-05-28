@@ -120,13 +120,13 @@ function update_pos(dir, segment)
     if segment.pos_y < 0 then
         segment.pos_y = board.x_dim
     elseif segment.pos_y > board.y_dim then
-        segment.pos_y = 1
+        segment.pos_y = 0
     end
 
     if segment.pos_x < 0 then
         segment.pos_x = board.x_dim
     elseif segment.pos_x > board.x_dim then
-        segment.pos_x = 1
+        segment.pos_x = 0
     end
 end
 
