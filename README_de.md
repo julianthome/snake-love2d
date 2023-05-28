@@ -6,7 +6,7 @@ Dieses Spiel benötigt eine funktionierenden Lua Interpreter und LÖVE Installat
 
 Anschließend können sie das Spiel mittels `./run.sh` starten
 
-In [diesem Golem.de Artikel](https://www.golem.de/news/spieleklassiker-snake-programmieren-mit-lua-und-loeve-2305-174483.html?_medium=widget.hp) ist der Code im Detail erläutert.
+In [diesem Golem.de Artikel](https://www.golem.de/news/spieleklassiker-snake-programmieren-mit-lua-und-loeve-2305-174483.html) ist der Code im Detail erläutert.
 
 ### Lizenz
 
